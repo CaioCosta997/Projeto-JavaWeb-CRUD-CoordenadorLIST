@@ -1,7 +1,7 @@
 # Projeto-JavaWeb-CRUD-CoordenadorLIST
 Projeto referente a disciplina de Progamação WEB, UCSAL 2023
 Tecnlogias Utilizadas:
-- JSP
+- JSTL
 - JavaScript
 - Java
 - Css
