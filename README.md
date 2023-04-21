@@ -5,7 +5,9 @@ Tecnlogias Utilizadas:
 - JavaScript
 - Java
 - Css
-- Apache TomCat versão 9.0
+- Apache TomCat versão 9.0 ( A utilização do Tomcat 9 se da, visto que, ocorreram problemas referentes a "valid web module" do dynamic web project )
+
+OBS : O select escolhido para uso, é necessário selecionar e arrastar( seja para cima ou para baixo) para que possa ser selecionada mais de uma opção
 
 Para utilizar a aplicação no WINDOWS é necessário baixar os seguintes programas:
 
