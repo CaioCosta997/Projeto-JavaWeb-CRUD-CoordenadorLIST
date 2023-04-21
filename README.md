@@ -2,6 +2,7 @@
 Projeto referente a disciplina de Progamação WEB, UCSAL 2023
 Tecnlogias Utilizadas:
 - JSTL
+- JSP
 - JavaScript
 - Java
 - Css
